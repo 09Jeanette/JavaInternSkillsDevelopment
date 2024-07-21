@@ -15,10 +15,7 @@ This modular application  allows users to interact with various functionalities 
   
 - Demonstrate the use of inheritance by creating a Car subclass from a Vehicle superclass.
 
-## Usage
-Run the MainApp class.
-Follow the on-screen menu to select the desired operation.
-Enter the required inputs as prompted by the application.
+
 
 ## Screenshots  of The output 
 
